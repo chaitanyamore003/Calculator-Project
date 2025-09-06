@@ -20,6 +20,7 @@ A project to practice **front-end development** and **DOM manipulation**.
 Calculator-Project/
 
 │
+
 ├─ index.html # Main HTML file
 
 ├─ style.css # CSS styles
@@ -40,6 +41,7 @@ JavaScript (Vanilla JS)
 Chaitanya More
 
 Github - https://github.com/chaitanyamore003
+
 Linkedin - https://www.linkedin.com/in/chaitanya-more-472203244/
 
 ⭐ Feedback
