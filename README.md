@@ -19,8 +19,6 @@ A project to practice **front-end development** and **DOM manipulation**.
 
 Calculator-Project/
 
-│
-
 ├─ index.html # Main HTML file
 
 ├─ style.css # CSS styles
